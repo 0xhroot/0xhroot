@@ -1,5 +1,41 @@
-# 💫 About Me:
-<br>I’m **0xhroot**, a developer with a strong interest in **Android development** and **cybersecurity**. I enjoy building security-focused applications and exploring how mobile systems work at a deeper level.<br><br>- 🔭 **Currently working on:** Android development, application security  <br>- 🤝 **Looking to collaborate on:** Cybersecurity tools, Android security projects, open-source security research  <br>- 🌱 **Currently learning:** Advanced Android development and mobile security  <br>- 💬 **Ask me about:** Android apps, Firebase, biometrics, Linux, basic cybersecurity  <br>- ⚡ **Fun fact:** I like breaking things just to understand how they work — then rebuilding them better<br>
+## 👨‍💻 0xhroot
+
+I’m **0xhroot**, a developer and security enthusiast with a strong passion for **Android development**, **mobile security**, and **cybersecurity research**. I focus on building practical, real-world applications that emphasize **secure authentication**, **clean architecture**, and **scalable backend integration**.
+
+I enjoy working close to the system layer—understanding how applications, operating systems, and networks behave internally—and then applying that knowledge to build more secure and efficient software. My approach is hands-on and implementation-driven rather than purely theoretical.
+
+Most of my work revolves around **Android applications**, where I integrate technologies like **Firebase**, **biometric authentication**, and secure data flows to create reliable, user-friendly, and security-aware apps. Alongside development, I actively explore cybersecurity concepts such as application security, authentication flaws, system hardening, and basic offensive security techniques to better understand how systems fail and how to defend them.
+
+I believe strong software is built when **development and security go hand in hand**. Whether it’s designing authentication flows, managing permissions, or structuring code for long-term maintainability, I aim to follow best practices that reflect real production environments.
+
+---
+
+## 💫 About Me
+
+- 🔭 **Currently working on:** Android development, mobile application security  
+- 🤝 **Looking to collaborate on:** Cybersecurity tools, Android security projects, open-source security research  
+- 🌱 **Currently learning:** Advanced Android development, mobile security, backend security concepts  
+- 💬 **Ask me about:** Android apps, Firebase, biometrics, Linux, authentication flows, basic cybersecurity  
+- ⚡ **Fun fact:** I enjoy breaking applications to understand how they work internally — then rebuilding them more securely
+
+---
+
+## 🚀 What You’ll Find Here
+
+- 📱 Android applications with real-world use cases  
+- 🔐 Security-focused authentication and authorization implementations  
+- ☁️ Firebase and cloud-integrated projects  
+- 🧪 Experimental security and automation projects  
+- 📚 Learning-focused repositories and proofs of concept  
+
+---
+
+## 🤝 Let’s Connect
+
+Feel free to explore my repositories, open issues, suggest improvements, or collaborate on projects.  
+I’m always interested in learning, building, and improving through open-source work.
+
+🔗 **GitHub:** https://github.com/0xhroot
 
 
 ## 🌐 Socials:
