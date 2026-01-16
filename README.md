@@ -1,9 +1,10 @@
 
+# 👨‍💻 0xhroot
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=30&duration=2800&pause=700&color=00FFAA&center=true&vCenter=true&width=750&lines=0xhroot;Cybersecurity+Researcher;Ethical+Hacking+%7C+OSINT;Android+Security+%7C+Linux" />
 </p>
 
-# 👨‍💻 0xhroot
 
 I’m **0xhroot**, a developer and security enthusiast with a strong passion for **Android development**, **mobile security**, and **cybersecurity research**. I focus on building practical, real-world applications that emphasize **secure authentication**, **clean architecture**, and **scalable backend integration**.
 
